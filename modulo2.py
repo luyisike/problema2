@@ -1,5 +1,5 @@
 print("hola")
-sumar=2+3
+sumar=2+4
 from abc import ABC, abstractmethod  # importar para clases abstractas
 
 
