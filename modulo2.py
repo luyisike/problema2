@@ -1,5 +1,5 @@
 print("hola")
-sumar=2+3
+sumar=2+4
 from abc import ABC, abstractmethod  # importar para clases abstractas
 
 
@@ -128,4 +128,5 @@ try:
 except ValueError as e:
     print("Error:", e)  # manejo de errores
 
-print("no teblock")
+print("no teblock") # detrminantes
+print("stop")
